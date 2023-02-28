@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "Shaik",
+      "password": "12345675432",
+      "contact": "7397446441",
+      "email": "innushaik815@gmail.com",
+      "address": "Hno. 91/4-111-2a ,k.v.b Reddy Nagar,near v.r colony,Kurnool, Andhra Pradesh\nHno. 91/4-111-2a ,k.v.b Reddy Nagar,near v.r colony,Kurnool, Andhra Pradesh\n518006",
+      "id": 1
+    },
+    {
+      "_username": "Priyanshu",
+      "_password": "sd23432243",
+      "_contact": 9891967027,
+      "_email": "negi.priyanshu33@gmail.com",
+      "_address": "Ground floor A-29 Dayal Bagh , Faridabad",
+      "id": 2
+    }
+  ]
+}
